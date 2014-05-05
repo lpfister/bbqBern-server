@@ -1,0 +1,23 @@
+{
+
+    "food": [
+        {
+            "id": 4,
+            "desc": "marguez"
+        },
+        {
+            "id": 6,
+            "desc": "porc"
+        }
+        ,
+        {
+            "id": 9,
+            "desc": "chicken"
+        },
+        {
+            "id": 2,
+            "desc": "cervelas"
+        }
+    ]
+
+}
