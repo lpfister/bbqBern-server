@@ -1,0 +1,24 @@
+{
+  "name": "bbqBern-server",
+  "version": "0.0.1",
+  "description": "Backend to organize a bbq in bern",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "~2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lpfister/bbqBern-server.git"
+  },
+  "author": "lpfister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpfister/bbqBern-server/issues"
+  },
+  "homepage": "https://github.com/lpfister/bbqBern-server"
+}
